@@ -60,9 +60,10 @@ h2{
   }
   #text{
     padding-left: 0px;
+    font-size: 30px;
   }
   h1{
-    font-size:80px;
+    font-size:120px;
     border-bottom:#1e3ca0 dotted 3px;
     margin-bottom: 0;
     border-bottom: none;
@@ -80,11 +81,11 @@ h2{
     margin-bottom: 20px;
     width: 250px;
     border: none;
-    font-size: 30px;
+    font-size: 60px;
     padding: 0 0 0 0;
   }
   h2{
-    font-size: 50px;
+    font-size: 80px;
     text-decoration: underline;
     text-decoration-style: dotted;
   }
